@@ -7,7 +7,7 @@
 
 #include "Queue.h"
 
-Queue::Queue():_first(NULL),_last(NULL)
+Queue::Queue():_first(NULL),_last(NULL), _size(0)
 {
 
 
